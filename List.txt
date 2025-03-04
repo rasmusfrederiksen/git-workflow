@@ -3,8 +3,9 @@
 3: Anto on the scene
 4.1: Lærke siger hej
 5: Anto laver noget
-6.1: Lærke laver mere mere
+6.2: Lærke laver mere
 7: Lærke laver noget
 8: Anto laver igen noget
 9: Anto laver mere
 10: Lærke laver mere igen
+12: Fedt, mand
