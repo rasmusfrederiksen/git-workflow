@@ -1,8 +1,9 @@
 1: I've added some things ...
 2: I added more stuff
 3: Anto on the scene
-4: Lærke siger hej
+4.1: Lærke siger hej
 5: Anto laver noget
 6: Lærke laver mere
 7: Lærke laver noget
 8: Anto laver igen noget
+9: Anto laver mere
