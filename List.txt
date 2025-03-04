@@ -4,3 +4,4 @@
 4: Lærke siger hej
 5: Anto laver noget
 6: Lærke laver mere
+7: Lærke laver noget
